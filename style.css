@@ -270,7 +270,7 @@ aside svg path {
 }
 @media (max-width: 500px) {
   .day {
-    font-size: 0.6em;
+    font-size: 0.8em;
     margin: 4px;
   }
 } /* /Adaptation */
